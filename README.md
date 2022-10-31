@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hok7z
 - 👀 I’m interested in **libre** software development
-- 🇺🇦 I'm stand with Ukraine 
 - 🌱 I’m currently learning C/C++ and Python
+- 🇺🇦 I'm stand with Ukraine 
 
 <!---
 hok7z/hok7z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
