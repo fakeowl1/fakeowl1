@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hok7z
-- 👀 I’m interested in **libre** software development
-- 🌱 I’m currently learning C/C++ and Python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frontend and GoLang
 - 🇺🇦 I'm stand with Ukraine 
 
 <!---
