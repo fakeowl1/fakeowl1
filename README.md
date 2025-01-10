@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @fakeowl1
-- I migrated to Forgejo: https://git.fakeowl1.com/fakeowl1
+- I'm interested in web programming, decentralized technologies.
+- I pray for Linux and Fediverse.
+- Usually, I use selfhosted [forgejo](https://git.fakeowl1.com/fakeowl1) for my projects.
